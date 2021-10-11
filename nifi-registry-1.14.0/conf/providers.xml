@@ -31,7 +31,7 @@
         <property name="Flow Storage Directory">./flow_storage</property>
         <property name="Remote To Push">origin</property>
         <property name="Remote Access User">gilvicarjo</property>
-        <property name="Remote Access Password">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</property>
+        <property name="Remote Access Password">gitpersonaltoken</property>
         <property name="Remote Clone Repository">https://github.com/gilvicarjo/nifi-registry-test.git</property>
     </flowPersistenceProvider>
 
